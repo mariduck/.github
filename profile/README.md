@@ -11,7 +11,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# mariduck
-个人社团（不会扩展） 提供服务的：marisa.ga
-# 名字
-其实是因为域名 marisa.ga  (把 sa 去掉     ga让人想到鸭子 所以就是mariduck了）
+# marisairma
+个人社团（不会扩展） 提供服务的：marisa.ml
+
